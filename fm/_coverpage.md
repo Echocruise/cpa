@@ -1,10 +1,10 @@
-# docsify
+# CPA 财管
 
-> A magical documentation site generator.
+> 学而不思则罔，思而不学则殆
 
-* Simple and lightweight (~12kb gzipped)
-* Multiple themes
-* Not build static html files
+* 笔记
+* 大纲+题型
+* 题目和时间记录
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#quick-start)
+[GitHub](https://github.com/Echocruise/cpa)
+
